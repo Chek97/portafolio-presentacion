@@ -1,6 +1,7 @@
 @import url('./navbar.css');
 @import url('./section_info.css');
 @import url('./projects.css');
+@import url('./about.css');
 
 * {
     padding: 0;
